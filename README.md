@@ -5,7 +5,9 @@ git clone project
 run npm install -- installing the projects dependancies
 
 # Expo installation
-run npm install expo
+run npm install expo --to install expo
+
+
 run expo start -- to start project.
 
 
